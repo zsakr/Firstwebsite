@@ -1,1 +1,2 @@
-# Firstwebsite continue learning the path of a full stack developer
+# Firstwebsite 
+Continue learning the path of a full stack Developer from Code Academy
